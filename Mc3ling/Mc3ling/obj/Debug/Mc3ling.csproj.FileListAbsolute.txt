@@ -1,0 +1,15 @@
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\Mc3ling.exe.config
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\Mc3ling.exe
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\Mc3ling.pdb
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\HslCommunication.dll
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\Newtonsoft.Json.dll
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\HslCommunication.xml
+D:\工作\通讯代码\Mc3ling\Mc3ling\bin\Debug\Newtonsoft.Json.xml
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.csproj.AssemblyReference.cache
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.Form1.resources
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.Properties.Resources.resources
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.csproj.GenerateResource.cache
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.csproj.CoreCompileInputs.cache
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.csproj.Up2Date
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.exe
+D:\工作\通讯代码\Mc3ling\Mc3ling\obj\Debug\Mc3ling.pdb

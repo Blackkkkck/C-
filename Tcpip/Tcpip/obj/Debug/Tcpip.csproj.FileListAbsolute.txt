@@ -1,0 +1,10 @@
+D:\工作\通讯代码\Tcpip\Tcpip\bin\Debug\Tcpip.exe.config
+D:\工作\通讯代码\Tcpip\Tcpip\bin\Debug\Tcpip.exe
+D:\工作\通讯代码\Tcpip\Tcpip\bin\Debug\Tcpip.pdb
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.csproj.AssemblyReference.cache
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.Form1.resources
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.Properties.Resources.resources
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.csproj.GenerateResource.cache
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.csproj.CoreCompileInputs.cache
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.exe
+D:\工作\通讯代码\Tcpip\Tcpip\obj\Debug\Tcpip.pdb

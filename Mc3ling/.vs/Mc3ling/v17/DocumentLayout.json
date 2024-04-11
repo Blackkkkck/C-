@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|d:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\mc3ling\\mc3ling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|solutionrelative:mc3ling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|d:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\mc3ling\\mc3ling\\hslcommcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|solutionrelative:mc3ling\\hslcommcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|d:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\mc3ling\\mc3ling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46CE9C26-6D1C-460E-A06D-006FA896B1CF}|Mc3ling\\Mc3ling.csproj|solutionrelative:mc3ling\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Form1.cs",
+              "RelativeDocumentMoniker": "Mc3ling\\Form1.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Form1.cs",
+              "RelativeToolTip": "Mc3ling\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:17:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hslcommcation.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Hslcommcation.cs",
+              "RelativeDocumentMoniker": "Mc3ling\\Hslcommcation.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Hslcommcation.cs",
+              "RelativeToolTip": "Mc3ling\\Hslcommcation.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAMwIgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:27:09.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Form1.cs",
+              "RelativeDocumentMoniker": "Mc3ling\\Form1.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u901A\u8BAF\u4EE3\u7801\\Mc3ling\\Mc3ling\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Mc3ling\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:11:44.819Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

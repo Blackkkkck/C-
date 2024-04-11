@@ -1,0 +1,10 @@
+14:27:21: System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“RichTextBox”。
+   在 System.Windows.Forms.Control.CreateHandle()
+   在 System.Windows.Forms.TextBoxBase.CreateHandle()
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.RichTextBox.get_TextLength()
+   在 System.Windows.Forms.TextBoxBase.AdjustSelectionStartAndEnd(Int32 selStart, Int32 selLength, Int32& start, Int32& end, Int32 textLen)
+   在 System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   在 System.Windows.Forms.TextBoxBase.AppendText(String text)
+   在 Tcpip.Form1.AddTextToRichTextBox(RichTextBox rtbox, String text, Boolean addTime) 位置 D:\工作\通讯代码\Tcpip\Tcpip\Form1.cs:行号 79
